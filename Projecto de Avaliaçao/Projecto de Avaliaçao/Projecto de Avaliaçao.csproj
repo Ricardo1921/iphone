@@ -93,5 +93,32 @@
   <ItemGroup>
     <None Include="Resources\calendario.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fotos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1232.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_20200109-105849.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_20200109-110516.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_20200109-111532.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\casa_malaga_fachada.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
