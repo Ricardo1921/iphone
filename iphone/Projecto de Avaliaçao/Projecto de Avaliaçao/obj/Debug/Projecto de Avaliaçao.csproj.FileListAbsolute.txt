@@ -1,0 +1,20 @@
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.csprojAssemblyReference.cache
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto_de_Avaliaçao.Form1.resources
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto_de_Avaliaçao.Properties.Resources.resources
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.csproj.GenerateResource.cache
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.csproj.CoreCompileInputs.cache
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\bin\Debug\Projecto de Avaliaçao.exe.config
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\bin\Debug\Projecto de Avaliaçao.exe
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\bin\Debug\Projecto de Avaliaçao.pdb
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.exe
+C:\Users\noddy\source\repos\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.pdb
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\bin\Debug\Projecto de Avaliaçao.exe.config
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\bin\Debug\Projecto de Avaliaçao.exe
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\bin\Debug\Projecto de Avaliaçao.pdb
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.csprojAssemblyReference.cache
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto_de_Avaliaçao.Form1.resources
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto_de_Avaliaçao.Properties.Resources.resources
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.csproj.GenerateResource.cache
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.csproj.CoreCompileInputs.cache
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.exe
+C:\Users\noddy\Source\Repos\iphone\Projecto de Avaliaçao\Projecto de Avaliaçao\obj\Debug\Projecto de Avaliaçao.pdb
